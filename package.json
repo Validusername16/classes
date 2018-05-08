@@ -1,0 +1,11 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "description": "This is a webserver",
+  "main": "bin/server",
+  "scripts": {
+    "start": "node bin/server"
+  },
+  "author": "",
+  "license": "ISC"
+}
